@@ -1,0 +1,8 @@
+W:\LabsSample\LabsSample\LabsSample\bin\Debug\LabsSample.dll
+W:\LabsSample\LabsSample\LabsSample\bin\Debug\LabsSample.pdb
+W:\LabsSample\LabsSample\LabsSample\obj\Debug\LabsSample.csprojResolveAssemblyReference.cache
+W:\LabsSample\LabsSample\LabsSample\obj\Debug\LabsSample.View.Main.xaml.g.cs
+W:\LabsSample\LabsSample\LabsSample\obj\Debug\LabsSample.App.xaml.g.cs
+W:\LabsSample\LabsSample\LabsSample\obj\Debug\LabsSample.View.Products.xaml.g.cs
+W:\LabsSample\LabsSample\LabsSample\obj\Debug\LabsSample.dll
+W:\LabsSample\LabsSample\LabsSample\obj\Debug\LabsSample.pdb
